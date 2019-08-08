@@ -5,24 +5,12 @@
 
 
 ### 相关技能  
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+####数据分析和编程
+Excel、Linux 、R、Python、MySQL、SQLite、HTML、JavaScript 
+####行业技能（一手信息）
+CDFA官网，FDA官网，药智网，行业专利检索及布局策略，WIND，各大智库，行业政策法规，行业人脉
+####通用
+多项目并行处理抗压能力、快速信息获取和快速学习能力、强烈的好奇心和自我驱动力、批判性思考和反思总结能力
 
 
 ### 工作经历
@@ -81,17 +69,17 @@ Bethany Crawford, 9 authors, Yingjie Ji, 4 authors, Therese M Murphy (2018) DNA 
 
 
 ### 实习经历
-#####基于R的癌症临床数据分析                                                                              2014.07 – 2014.08
+####基于R的癌症临床数据分析                                                                              2014.07 – 2014.08
 -	应用机器学习算法建模,包括 k-NN, SVM,从而对高维变量分组,使用交叉验证来测试
-#####基于Bioconductor(R) 的基因芯片数据分析                                                                2014.08– 2014.09
+####基于Bioconductor(R) 的基因芯片数据分析                                                                2014.08– 2014.09
 -	分析基因芯片数据，提取显著变化的一组基因,发现疾病可能通路
-#####预测代谢组学质谱图中的代谢物结构                                                                      2014.09 – 2015.03
+####预测代谢组学质谱图中的代谢物结构                                                                      2014.09 – 2015.03
 -	提取人类代谢物数据库数据, 解析亚结构,并构建人类代谢物亚结构数据库, 应用ChemAxon,Openbabel,RDKit等重新构建化合物，并根据贝叶斯理论计算得分代谢组学数据建模分析--代谢疾病与高糖高脂饮食的关系
 构建神经系统疾病特异的遗传变异到蛋白质结构变异数据库（小组项目）      2015.12 – 2016.02
 -	提取UniProt中神经系统疾病特异的gene ID,OMIM ID, GO 注释, 提取Consurf-DB, IUPred, RCSB, PDB等蛋白质结构数据库数据，构建关系型数据库
-#####人类肠道菌群统计方法的基准化分析                                                                       2016.03 – 2016.05
+####人类肠道菌群统计方法的基准化分析                                                                       2016.03 – 2016.05
 -	使用log-normal distribution模拟OTU矩阵的skewed distribution,  Benchmark 3 种微生物组专有工具megenomeSeq, METASTATS, 构建 R shiny 界面,实现交互式结果展示
-#####在疾病诊断中应用非线性模型及机器学习                                                                  2016.06 – 2016.09
+####在疾病诊断中应用非线性模型及机器学习                                                                  2016.06 – 2016.09
 -	分析用于诊断肺结核的微生物基因芯片数据，构建非线性模型，支持向量机(SVM), 随机森林(RF), 贝叶斯回归树(BART) ，模拟表达基因的互作,发现潜在基因互作机制
 
 ### 荣誉奖励
